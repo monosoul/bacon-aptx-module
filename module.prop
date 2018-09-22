@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=bacon-aptx
+name=Apt-X Enabler for OnePlus One (bacon)
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=monosoul
+description=Apt-X Enabler for OnePlus One (bacon)
 minMagisk=17000
