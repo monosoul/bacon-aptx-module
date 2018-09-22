@@ -1,3 +1,3 @@
-# Apt-X Enabler for OnePlus One (bacon)
+# AptX and AptX-HD Enabler for OnePlus One (bacon)
 
-Magisk module that enables Apt-X and Apt-X HD support for OnePlus One (bacon)
+Magisk module that enables AptX and AptX-HD support for OnePlus One (bacon)
